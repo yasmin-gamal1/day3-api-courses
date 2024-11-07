@@ -1,0 +1,6 @@
+@d3_HostAddress = http://localhost:5298
+
+GET {{d3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
